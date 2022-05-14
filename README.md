@@ -3,11 +3,11 @@
 Tech used => HTML, CSS, Javascript.
 
 Sign up page with input value
-Name
-Email id
-Phone Number
-Gender
-Password
+Name,
+Email id,
+Phone Number,
+Gender,
+Password and
 Confirm Password
 
 -> Validations in the Signup form
